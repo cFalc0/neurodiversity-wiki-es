@@ -10,8 +10,11 @@ Un recurso comunitario sobre neurodiversidad — la variación natural en el fun
 
 - [[rasgos-comunes-tdah|Rasgos comunes del TDAH]] — Características y experiencias frecuentes
 - [[disforia-sensibilidad-al-rechazo|Disforia por Sensibilidad al Rechazo]] — El dolor emocional ante el rechazo percibido
+- [[disfuncion-ejecutiva|Disfunción Ejecutiva]] — El mecanismo central detrás de los síntomas del TDAH
 - [[enmascaramiento|Enmascaramiento]] — Ocultar rasgos neurodivergentes para encajar
 - [[desenmascaramiento|Desenmascaramiento]] — El proceso de soltar la máscara
+- [[agotamiento-neurodivergente|Agotamiento Neurodivergente]] — El colapso por enmascaramiento sostenido y sobrecarga
+- [[diagnostico-tardio|Diagnóstico Tardío]] — Recibir un diagnóstico en la adultez y lo que sigue
 - [[navegar-espacios-neurotypicos|Navegar espacios neurotípicos]] — Estrategias sociales prácticas
 - [[por-que-las-personas-neurodivergentes-sobrecomparten|Por qué las personas neurodivergentes sobrecomparten]] — Entender el impulso
 - [[autodivulgacion|Autodivulgación]] — Decidir qué compartir y con quién
