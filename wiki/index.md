@@ -19,6 +19,9 @@ Un recurso comunitario sobre neurodiversidad — la variación natural en el fun
 - [[por-que-las-personas-neurodivergentes-sobrecomparten|Por qué las personas neurodivergentes sobrecomparten]] — Entender el impulso
 - [[autodivulgacion|Autodivulgación]] — Decidir qué compartir y con quién
 - [[autodefensa|Autodefensa]] — Hablar en nombre de tus propias necesidades
+- [[que-es-la-dislexia|Qué es la Dislexia]] — Definición, prevalencia y cómo se manifiesta realmente — más allá del mito de "las letras al revés"
+- [[procesamiento-fonologico|Procesamiento Fonológico]] — El mecanismo neurológico en el núcleo de la dislexia: cómo el cerebro mapea sonidos a símbolos
+- [[dislexia-en-la-adultez|Dislexia en la Adultez]] — Dislexia compensada, diagnóstico tardío y navegación en el trabajo y la vida diaria
 
 ## Acerca de
 
